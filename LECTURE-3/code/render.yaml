@@ -3,7 +3,7 @@ services:
     name: fastapi
     runtime: docker
     plan: free
-    repo: https://github.com/nfactorial-incubator/2023-backend.git
+    repo: https://github.com/DanelRisa/2023-backend.git
     region: frankfurt
     branch: main
     envVars:
